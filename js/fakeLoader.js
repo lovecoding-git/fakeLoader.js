@@ -56,7 +56,7 @@
         });
 
         el.css({
-            'backgroundColor':settings.bgColor
+            'background':settings.bgColor
         });
 
         setTimeout(function () {
